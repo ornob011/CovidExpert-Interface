@@ -182,7 +182,7 @@ The official [PyTorch documentation](https://pytorch.org/docs/stable/index.html)
 
 ## FAQ
 
-1. What to do if my computer does not have the memory requirements (at least 4 GB GPU RAM or 12 GB RAM is needed in case of running on CPU)?</br>**Ans:** Unfortunately, there is nothing I can do to solve this problem. A web interface was implemented, but since "Heroku" does not provide more than 500 MB memory, it's not possible to deploy the model and associate files in the web without paying money.
+1. What to do if my computer does not have the memory requirements?</br>**Ans:** At least 4 GB GPU RAM or 12 GB RAM is needed in case of running the model on CPU. Unfortunately, there is nothing I can do to solve this problem. A web interface was implemented, but since "Heroku" does not provide more than 500 MB memory, it's not possible to deploy the model and associate files in the web without paying money.
 
 2. How much confidence threshold is satisfactory?</br>**Ans:** Any percentage of similarity over 80% should be dealt seriously, since the COVID-19 can be detected by human experts on 87% time from CT scans.
 
