@@ -105,17 +105,18 @@ conda activate torch
 ### Installing
 <p align="justify">
 
-If the local computer's GPU and RAM does not have high performance and the user don't have/wish to run from a powerful remote server, run from [Google Colab](https://research.google.com/colaboratory/). In any of these two cases (local or Colab), the user has to download the original dataset where he/she will be working. The download link has been provided [here](https://drive.google.com/file/d/1n-eck14JZtzAaltQt1LELKvA7AoDF8Ye/view?usp=sharing). To train the model, the user need to organize the original dataset with the help of a radiogist or the user could use the [given dataset](full_dataset-2.csv).
+If the local computer's GPU and RAM does not have high performance and the user don't have/wish to run from a powerful remote server, run from [Google Colab](https://research.google.com/colaboratory/). In any of these two cases (local or Colab), the user has to download the original dataset where he/she will be working. The download link has been provided [here](https://drive.google.com/file/d/1n-eck14JZtzAaltQt1LELKvA7AoDF8Ye/view?usp=sharing). To train the model, the user need to organize the original dataset with the help of a radiologist.
 
-To initialize the model:
+To initialize the trained model:
 1. Clone the repo.
 2. Open a terminal into the cloned repo
 3. Activate virtual environment with
     ```
     conda activate torch
     ```
-
-4. Put the following command in the terminal
+4. Download the files from the [drive link](https://drive.google.com/drive/folders/1X-FPsqu379q7BkGYiWzGUAeDHoLVS_mP?usp=share_link)
+5. Put the downloaded files into this folder
+6. Issue the following command in the terminal
     ```
     python interface.py
     ```
