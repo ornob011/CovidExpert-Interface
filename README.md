@@ -41,8 +41,8 @@ For Windows User: </br>
 <div style="text-align: justify">
 
 <p align="justify">
-
 Download and Install [Anaconda installer](https://www.anaconda.com/products/distribution) if you wish to run the project from your local computer. Open Anaconda navigator to create a virtual environment with the following command
+</p>
 
 ```
 conda create -y --name torch python==3.7.3
@@ -201,7 +201,7 @@ This software is licensed under the GNU General Public License (GPL) version 3.
 
 The full text of the GPL can be found in the `LICENSE` file, or online at <https://www.gnu.org/licenses/gpl-3.0.en.html>.
 
-</p>
+
 </div>
 
 
