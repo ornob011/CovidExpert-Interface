@@ -41,6 +41,7 @@ For Windows User: </br>
 <div style="text-align: justify">
 
 <p align="justify">
+
 Download and Install [Anaconda installer](https://www.anaconda.com/products/distribution) if you wish to run the project from your local computer. Open Anaconda navigator to create a virtual environment with the following command
 </p>
 
