@@ -5,7 +5,7 @@ Detection of COVID-19 from CT scan images using Few-Shot Learning approach
 ## Short Description
 
 <p align="justify">
-This repository contains the interface code for the paper “CovidExpert: A Triplet Siamese Neural Network framework for the detection of COVID-19”, which is accepted in Informatics in Medicine Unlocked (among the top 6% journal in the science branch of Health Sciences), but not published yet.
+This repository contains the interface code for the paper <a href="https://doi.org/10.1016/j.imu.2022.101156" target="_blank">CovidExpert: A Triplet Siamese Neural Network framework for the detection of COVID-19</a>, which is accepted in Informatics in Medicine Unlocked (among the top 6% journal in the science branch of Health Sciences).
 A Graphical User Interface (with Tkinter) of the proposed model has been created to upload CT scan images (in jpg or png format) and check whether it is COVID-19, Community Acquired Pneumonia (CAP) infected or Normal with a similarity score. The interface is platform independent, so anyone with a poweful GPU PC would be able to run it.
 </p>
 
