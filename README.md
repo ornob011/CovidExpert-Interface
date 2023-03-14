@@ -12,19 +12,18 @@ This repository contains the interface code for the paper <a href="https://doi.o
 A Graphical User Interface (with Tkinter) of the proposed model has been created to upload CT scan images (in jpg or png format) and check whether it is COVID-19, Community Acquired Pneumonia (CAP) infected or Normal with a similarity score. The interface is platform independent, so anyone with a poweful GPU PC would be able to run it.
 </p>
 
-## Supervisor
+<!-- ## Supervisor
 -----------
 **Enamul Hassan**         
 Assistant Professor     
 Department of Computer Science and Engineering          
 Shahjalal University of Science and Technology       
-[Faculty Profile](https://www.sust.edu/d/cse/faculty-profile-detail/590) and [GitHub Profile](https://github.com/enamcse)
+[Faculty Profile](https://www.sust.edu/d/cse/faculty-profile-detail/590) and [GitHub Profile](https://github.com/enamcse) -->
 
 ## Table of Contents
 
 - [Project Title](#project-title)
   - [Short Description](#short-description)
-  - [Supervisor](#supervisor)
   - [Table of Contents](#table-of-contents)
   - [Getting Started](#getting-started)
     - [Project Idea](#project-idea)
